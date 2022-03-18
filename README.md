@@ -1,2 +1,2 @@
 # Predicting House Prices
-Building a linear regression model to predict house prices. This notebook is a part the course Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera.
+Building a linear regression model to predict house prices.
